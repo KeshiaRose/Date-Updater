@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest manifest-version="0.1" xmlns="http://wwww.tableau.com/xml/extension_manifest">
+  <dashboard-extension id="com.tableau.extensions.dateupdater" extension-version="0.6.0">
+    <default-locale>en_US</default-locale>
+    <name resource-id="name"/>
+    <description>Date Updater</description>
+    <author name="Keshia Rose" email="krose@tableau.com" organization="tableau" website="www.tableau.com"/>
+    <min-api-version>0.9</min-api-version>
+    <source-location>
+      <url>https://keshiarose.github.io/Date-Updater/Date-Updater.html</url>
+    </source-location>
+    <icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAADdcAAA3XAUIom3gAAAAHdElNRQfiAQoXIzk9QJNhAAACK0lEQVRIx8XVP0hVYRjH8Y8mkTRcE0TsHylkWKiLglIQESS0eOcGl6IaTAoHhVyCyiVpDSQQpKagoBqaCgkKlJAkQhoclNAuJCRFYd63wevpnOtV8y4973DO97y/5/c+73vec16SUea9WzF+5FGM0uYcyU+gyu6IqzRaMRzxGRyKqMM+Z/yK+LsMnbJCkS2rs0yDEp98znnu1G7Ju2iME3gdUZ0DPvqSo70Oa6BfcDmS7BG8ik1x3nyMbgjSEV0W9JflLeKiC6ZifD7RO2zJi/WLmIz7CXqeoDl38uWrBu1+2n60/zXo0lWEQayC5yaKyG3TsWbwzL0iDK7qoLTY0tfi/xuUbdhzzCmtWjBh3EsftmOwy03XlCKLo7pk3TVQaLcUmkKTSb2+6nNSSspJfb7qNamp0GjJj4ly04InqkGlSlDtiWBaeUx5VdC/voLb6j2WtgDGjIEFaY/Vu73VFJr1yLgU8X77o/tLMno0b25wWqlBmYJLmzGo1OnNDVrxxkbxJqfY1OC3yQ0NJv3ON1jdB9ej91BnWTbW/0ulNm9zlJVVFw1QtXo5aznvX9sSM7gm+OZ4jlrylMvOQrmKqA0JuhM1DggW7QLdgqGYuty6qLViTkXi2ZXcQVNhzopaW8RTwWjBnlHB063SqTEjGJFKPE0ZEcyo2dqAehnBrIua7LBDk4tmBRn1/5IOBz3InZg//Midgg8cLCQt2dCk1TmNGjFlykPjhWV/AKlTulwTCxz/AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTAxLTEwVDIzOjM1OjU3KzAxOjAwhepgfQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wMS0xMFQyMzozNTo1NyswMTowMPS32MEAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSuQmCC</icon>
+    <context-menu>
+      <configure-context-menu-item />
+    </context-menu>
+  </dashboard-extension>
+  <resources>
+    <resource id="name">
+      <text locale="en_US">Date Updater</text>
+    </resource>
+  </resources>
+</manifest>
