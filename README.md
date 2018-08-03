@@ -1,3 +1,5 @@
+>**The version found in this repository is out of date. Please go to the [Extension Gallery](https://extensiongallery.tableau.com/products/28) to get the latest version.**
+
 # Date Updater
 A Tableau extension that automatically updates a parameter to the current date
 
